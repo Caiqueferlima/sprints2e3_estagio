@@ -2,6 +2,9 @@
 .env.*
 !.env.example
 
+# Dependencies
+node_modules/
+
 # Credentials and secrets
 credentials.*
 secrets.*
